@@ -213,7 +213,7 @@ int main() {
 			}
 		}
 
-		std::cout << "Would you like to play again? Reply with y for yes an n for no." << '\n';
+		std::cout << "Would you like to play again? Reply with y for yes and n for no." << '\n';
 		std::cin >> response;
 		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
