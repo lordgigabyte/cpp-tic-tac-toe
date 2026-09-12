@@ -79,7 +79,7 @@ Placed X tick succesfully!
 2[O][X][ ]
 3[ ][O][X]
 Congratulations to the winner! X
-Would you like to play again? Reply with y for yes an n for no.
+Would you like to play again? Reply with y for yes and n for no.
 ```
 
 
